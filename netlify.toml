@@ -2,5 +2,5 @@
 [[redirects]]
   from = "/nginx/*"
   to = "http://nginx.org/:splat"
-  status = 301
-  force = false
+  status = 200
+  force = true
