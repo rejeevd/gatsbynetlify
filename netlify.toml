@@ -2,5 +2,5 @@
 [[redirects]]
   from = "/pages/*"
   to = "https://accessos.notion.site/:splat"
-  status = 301
-  force = false
+  status = 200
+  force = true
