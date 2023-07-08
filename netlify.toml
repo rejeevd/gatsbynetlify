@@ -1,6 +1,6 @@
 
 [[redirects]]
-  from = "/nginx/*"
-  to = "http://nginx.org/:splat"
+  from = "/pages/*"
+  to = "https://accessos.notion.site/:splat"
   status = 200
   force = true
